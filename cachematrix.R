@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## Hi, I hope this find you well. There is my 2 functions that I create using the 2 examples functions makevector and cachemean
+## Hi, I hope this find you well. There are my 2 functions that I create using the 2 examples functions makevector and cachemean
 
 
 ## Write a short comment describing this function
